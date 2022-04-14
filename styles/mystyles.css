@@ -1,0 +1,54 @@
+body.a {
+    background-color: rgb(254, 241, 252);
+}
+
+body.b {
+    background-color: white;
+}
+.links {
+    text-align: center;
+    display: block;
+}
+
+.middle {
+    text-align: center;
+}
+
+.picture {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.picture2 {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2.a {
+    font-style: italic;
+  }
+  
+
+li.b {
+    font-style: italic;
+  }
+
+.spark {
+    font-weight: bold;
+  }
+
+.colored {
+    color: blue
+}
+
+.curvy {
+    font-style: italic;
+}
